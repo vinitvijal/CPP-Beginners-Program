@@ -16,10 +16,6 @@ int main(){
 
     // cout << sizeof a;
 
-
-
-
-
     int a = 25;
     cout << pow(a, 0.5);
 

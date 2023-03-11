@@ -5,12 +5,9 @@ int main(){
 
     int n = 5;
 
-    // while (n >= 0)
-    // {
-    //     cout << n << " " << endl;
-    //     n--;
-
-    // }
+    for(int j; j <= 1000000; j++){
+        cout << j << endl;
+    }
 
 
     // Strings are mutable
